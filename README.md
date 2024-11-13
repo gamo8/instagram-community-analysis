@@ -29,23 +29,6 @@ Gephi Set-up:
 -	On Layout, choose ForceAtlas 2, tolerance 0.04, check Approximate Repulsion, Approximation 1.2, Scaling 200, check prevent overlap and Edge weight Influence 0.5. Keep the remaining as default
   
 
- 
-References:
-Largest 100 Instagram accounts
-https://socialblade.com/instagram/top/100/followers
-Collect, Process, Visualize - Programming Social Graphs (Instagram, Python, Gephi)
- https://www.youtube.com/watch?v=CgHDt_aKyCc
-ForceAtlas2, a Continuous Graph Layout Algorithm for Handy Network Visualization Designed for the Gephi Software https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0098679
-Getting Started with Network Data Using Gephi
-https://www.youtube.com/watch?v=lPivwXdy9XY
-No-Code Instagram API Data Scraping with HAR Files
-https://www.youtube.com/watch?v=lQnSTeCOjXQ
-Network Analysis with Gephi
-https://www.youtube.com/watch?v=WpFZmIJTjA8
- Intro2SNA (Gephi for Twitter Network Analysis, Community Detection and Influencer Analysis)
-https://www.youtube.com/watch?v=Bx1uArwfoGM
- Análise de dados | Grafo a partir de perfis do Instagram – Gephi
-https://www.youtube.com/watch?v=G946j72_Bb0
 
 Analyzed accounts sorted by number of followers
 1.	Instagram - The official account of the Instagram platform.
