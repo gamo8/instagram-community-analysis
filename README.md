@@ -8,7 +8,9 @@ https://www.youtube.com/watch?v=fnXdmS1Hedw
 Instructions:
 Please, check readme.txt files for instruction on how to use this software:
 There are 2 folder manual scrape and auto scraper
+
 Manual Scraper does the same way I showed in the youtube video
+
 Auto Scraper does it automatically, but I recommend to not overuse it, as your account may be blocked by Instagram.
 
 Open the file “instagram-analysis.gephi” on Gephi to open this graph project.
